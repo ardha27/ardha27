@@ -1,7 +1,7 @@
-[![MasterHead](https://www.uhdpaper.com/2020/01/anime-girl-computer-desktop-4k-42477.html)](https://ardha27.github.io/portfolio-tailwind/)
+[![MasterHead](https://i.pinimg.com/564x/d4/a5/4c/d4a54c5759615b00857ce5bd2d7fdb9f.jpg)](https://ardha27.github.io/portfolio-tailwind/)
 <h1 align="center">Hi 👋, I'm Ardha</h1>
 <h3 align="center">University Student from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a8/e5/9c/a8e59cd6a342cc3df98f793229f8bc91.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/36/73/b2/3673b220d40793ab3bdb0114aca65803.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardha27&label=Profile%20views&color=0e75b6&style=flat" alt="ardha27" /> </p>
 
