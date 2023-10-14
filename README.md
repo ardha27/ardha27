@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Python & IoT**
 
-- 📫 How to reach me **ardha.19053@mhs.its.ac.id**
+- 📫 How to reach me **[Discord](https://discord.com/users/524180194722840577)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
